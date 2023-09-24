@@ -15,8 +15,8 @@
 
     <div class="upload-link">
         <a href="upload.php">Upload New Multimedia</a>
-        <div class="header"> <p>Visit the :  <a href="main.php" class="code-link">Home Page</a>.</p></div>
     </div>
+    <div class="header"> <p>Visit the :  <a href="main.php" class="code-link">Home Page</a>.</p></div>
     </div>
     <div class="multimedia-list">
         <?php
